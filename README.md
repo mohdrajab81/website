@@ -10,6 +10,6 @@ adding some changes
 
 updates from master branch
 
-## making conflecting changes
+## new feature
 
-This is the conflict
+This is new feature
